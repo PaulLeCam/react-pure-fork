@@ -1,5 +1,10 @@
 # Changelog
 
+## In progress
+
+- Updated for React v0.14.0-rc1.
+- Updated Jest to v0.5.
+
 ## v0.3.1 (01/06/15)
 
 Updated dependencies and code style.
